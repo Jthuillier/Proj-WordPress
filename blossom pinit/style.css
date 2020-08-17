@@ -1,0 +1,27 @@
+/*
+Theme Name: Blossom pinlt Enfant par WP Marmite
+Description: Theme enfant du theme Blossom pinlt. Vous pouvez desormais le personnaliser sans risquer de perdre vos modifications
+Author: WPMarmite
+Author URI: https://wpmarmite.com
+Template: blossom-pin
+Version: 1.0
+*/
+
+
+.site-header{
+    background: #F29E7D;
+
+}
+
+.site-footer{
+    background: #F29E7D;
+}
+
+.single .site-content, .page .site-content {
+    background: #F4FAFF;
+    
+}
+
+#content .container{
+    width: 600px;
+}
